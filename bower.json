@@ -1,0 +1,17 @@
+{
+  "name": "gio-buttons",
+  "authors": [
+    "Michael G <m@gdyr.co>"
+  ],
+  "description": "Learning tool for memorising button positions on the ETC Gio console.",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
